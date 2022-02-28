@@ -1,6 +1,6 @@
 # LogMe
 
-LogMe is MS Word addin that keeps a record for everything you do while using word.
+LogMe is an MS Word addin that keeps a record for everything you do while using word.
 
 After running the setup LogMe can be found in the FILE tab of Microsoft word
 
