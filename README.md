@@ -2,7 +2,7 @@
 
 LogMe is MS Word addin that keeps a record for everything you do while using word.
 
-After running the setup LogMe can been found in the FILE tab of Microsoft word
+After running the setup LogMe can be found in the FILE tab of Microsoft word
 
 ![image](https://user-images.githubusercontent.com/94911727/156038642-286f37d3-07ee-4dad-8ecc-576c5780ec40.png)
 
@@ -11,7 +11,7 @@ After running the setup LogMe can been found in the FILE tab of Microsoft word
 
 When you click on the Open LogMe button you should be able to see your log files.
 
-The Log file contains information like the date and the time about all the actions you did while using word.
+The Log file contains information like the date and the time about all the actions you did while using Microsoft word.
 
 Here is an example 
 
