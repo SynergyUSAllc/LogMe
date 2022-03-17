@@ -16,6 +16,6 @@ See below for an example
 
 ![image](https://user-images.githubusercontent.com/94911727/156038759-1741fa87-2f31-4c4b-b7b1-babfe9706308.png)
 
-LogMe was checked by VirusTotal
-Check link for further details
+LogMe was checked by VirusTotal and was found clean from any malware.
+Check link for further details:
 https://www.virustotal.com/gui/file/f78a4df65c371c2c812fcf868c8b200120c36e7be982781ef073fe761619dc32?nocache=1
