@@ -1,6 +1,6 @@
 # LogMe
 
-LogMe is a Microsoft Word Add-In that keeps records of all your actions while you are working with your documents.
+LogMe is a 100% free Microsoft Word Add-In that keeps records of all your actions while you are working with your documents.
 
 You can open those records by clicking the "LogMe" button under "File" tab in Word
 
