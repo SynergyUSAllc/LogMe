@@ -1,6 +1,7 @@
 # LogMe
 
 LogMe is a 100% free Microsoft Word Add-In that keeps records of all your actions while you are working with your documents.
+Use this free app for any of your GDPR needs or when troubleshooting with lost or corrupted documents.
 
 You can open those records by clicking the "LogMe" button under "File" tab in Word
 
