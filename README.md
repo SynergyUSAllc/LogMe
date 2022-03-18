@@ -19,3 +19,5 @@ See below for an example
 LogMe was checked by VirusTotal and was found clean from any malware.
 Check link for further details:
 https://www.virustotal.com/gui/file/f78a4df65c371c2c812fcf868c8b200120c36e7be982781ef073fe761619dc32?nocache=1
+
+Visit our website for more free tools and other helpful products: https://synergy-usa-llc.com
